@@ -1,0 +1,20 @@
+{
+  "node_id": "d99592a65919ea24d3636faf5e99950d1c986fde",
+  "ip": "35.186.155.139",
+  "validator": {
+    "pub_key": {
+      "type": "AC26791624DE60",
+      "value": "qkFJEsVJ5sB4ov8p2kQvKQzXMEV/vzOVBwtWc5jfsy8="
+    },
+    "power": 100,
+    "name": ""
+  },
+  "app_gen_tx": {
+    "name": "fb-3",
+    "address": "E080FBC2D5E9879B47E1994FE2DCA375D0E299E2",
+    "pub_key": {
+      "type": "AC26791624DE60",
+      "value": "qkFJEsVJ5sB4ov8p2kQvKQzXMEV/vzOVBwtWc5jfsy8="
+    }
+  }
+}
