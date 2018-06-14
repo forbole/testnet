@@ -1,20 +1,20 @@
 {
-  "node_id": "ceaa31c627df0e9fe13eff307e047ee33f088cec",
-  "ip": "35.194.158.194",
+  "node_id": "bb308ca6fb4c6f233f7bd6420b7e009a08fc441e",
+  "ip": "10.140.0.5",
   "validator": {
     "pub_key": {
       "type": "AC26791624DE60",
-      "value": "axxSYGabM0NedEplCSbNRsYPBCkYSUnMwZpxOmwd+rc="
+      "value": "+LB1jmAmXc/cogPARtWCTXKfyVAl3n4ZKkLjZZLdYbU="
     },
     "power": 100,
     "name": ""
   },
   "app_gen_tx": {
     "name": "fb-3",
-    "address": "68F81A98ED9C96EF2DC6205F14906CC6B636CC50",
+    "address": "D9F4CFCC4575F09E056E87E7F8FB6D7EE7D38FC2",
     "pub_key": {
       "type": "AC26791624DE60",
-      "value": "axxSYGabM0NedEplCSbNRsYPBCkYSUnMwZpxOmwd+rc="
+      "value": "+LB1jmAmXc/cogPARtWCTXKfyVAl3n4ZKkLjZZLdYbU="
     }
   }
 }
