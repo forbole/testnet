@@ -1,0 +1,264 @@
+{
+  "app_hash": "",
+  "genesis_time": "2018-06-14T08:12:09.177981911Z",
+  "chain_id": "fb-000-dev",
+  "consensus_params": {
+    "block_size_params": {
+      "max_bytes": 22020096,
+      "max_txs": 100000,
+      "max_gas": -1
+    },
+    "tx_size_params": {
+      "max_bytes": 10240,
+      "max_gas": -1
+    },
+    "block_gossip_params": {
+      "block_part_size_bytes": 65536
+    },
+    "evidence_params": {
+      "max_age": 100000
+    }
+  },
+  "validators": [
+    {
+      "pub_key": {
+        "type": "AC26791624DE60",
+        "value": "BqktGohG959e4m55sRuvoKKynlyJzp/G2a77Jo4ulAQ="
+      },
+      "power": 100,
+      "name": ""
+    },
+    {
+      "pub_key": {
+        "type": "AC26791624DE60",
+        "value": "+LB1jmAmXc/cogPARtWCTXKfyVAl3n4ZKkLjZZLdYbU="
+      },
+      "power": 100,
+      "name": ""
+    },
+    {
+      "pub_key": {
+        "type": "AC26791624DE60",
+        "value": "T748INOBZ/U7TzbzWfyuEIchWw4RN59H8Z/I5y5zeso="
+      },
+      "power": 100,
+      "name": ""
+    },
+    {
+      "pub_key": {
+        "type": "AC26791624DE60",
+        "value": "TMmDMwh5U9WrnAcm3f/JZzeyKwXx7RKRzMwmDihmuLs="
+      },
+      "power": 100,
+      "name": ""
+    }
+  ],
+  "app_state": {
+    "accounts": [
+      {
+        "address": "B1F85716B2AB76D1FD0522476E6D87307A22C0FF",
+        "coins": [
+          {
+            "denom": "money",
+            "amount": 1000000
+          },
+          {
+            "denom": "steak",
+            "amount": 50
+          }
+        ]
+      },
+      {
+        "address": "D9F4CFCC4575F09E056E87E7F8FB6D7EE7D38FC2",
+        "coins": [
+          {
+            "denom": "money",
+            "amount": 1000000
+          },
+          {
+            "denom": "steak",
+            "amount": 50
+          }
+        ]
+      },
+      {
+        "address": "521ADC35CFC23C9E80616C92332B46D3FFD9039C",
+        "coins": [
+          {
+            "denom": "money",
+            "amount": 1000000
+          },
+          {
+            "denom": "steak",
+            "amount": 50
+          }
+        ]
+      },
+      {
+        "address": "7084BEF9D4FC081C3B919FBF924E01A3EF305E8B",
+        "coins": [
+          {
+            "denom": "money",
+            "amount": 1000000
+          },
+          {
+            "denom": "steak",
+            "amount": 50
+          }
+        ]
+      }
+    ],
+    "admins": [
+      {
+        "address": "B1F85716B2AB76D1FD0522476E6D87307A22C0FF",
+        "role": "Admin"
+      },
+      {
+        "address": "D9F4CFCC4575F09E056E87E7F8FB6D7EE7D38FC2",
+        "role": "Admin"
+      },
+      {
+        "address": "521ADC35CFC23C9E80616C92332B46D3FFD9039C",
+        "role": "Admin"
+      },
+      {
+        "address": "7084BEF9D4FC081C3B919FBF924E01A3EF305E8B",
+        "role": "Admin"
+      }
+    ],
+    "stake": {
+      "pool": {
+        "loose_unbonded_tokens": 200,
+        "unbonded_tokens": 0,
+        "unbonding_tokens": 0,
+        "bonded_tokens": 400,
+        "unbonded_shares": "0",
+        "unbonding_shares": "0",
+        "bonded_shares": "400",
+        "inflation_last_time": 0,
+        "inflation": "7/100",
+        "date_last_commission_reset": 0,
+        "prev_bonded_shares": "0"
+      },
+      "params": {
+        "inflation_rate_change": "13/100",
+        "inflation_max": "1/5",
+        "inflation_min": "7/100",
+        "goal_bonded": "67/100",
+        "max_validators": 100,
+        "bond_denom": "steak"
+      },
+      "validators": [
+        {
+          "owner": "B1F85716B2AB76D1FD0522476E6D87307A22C0FF",
+          "pub_key": {
+            "type": "AC26791624DE60",
+            "value": "BqktGohG959e4m55sRuvoKKynlyJzp/G2a77Jo4ulAQ="
+          },
+          "revoked": false,
+          "pool_shares": {
+            "status": 2,
+            "amount": "100"
+          },
+          "delegator_shares": "0",
+          "description": {
+            "moniker": "fb-0",
+            "identity": "",
+            "website": "",
+            "details": ""
+          },
+          "bond_height": 0,
+          "bond_intra_tx_counter": 0,
+          "proposer_reward_pool": [],
+          "commission": "0",
+          "commission_max": "0",
+          "commission_change_rate": "0",
+          "commission_change_today": "0",
+          "prev_bonded_shares": "0"
+        },
+        {
+          "owner": "D9F4CFCC4575F09E056E87E7F8FB6D7EE7D38FC2",
+          "pub_key": {
+            "type": "AC26791624DE60",
+            "value": "+LB1jmAmXc/cogPARtWCTXKfyVAl3n4ZKkLjZZLdYbU="
+          },
+          "revoked": false,
+          "pool_shares": {
+            "status": 2,
+            "amount": "100"
+          },
+          "delegator_shares": "0",
+          "description": {
+            "moniker": "fb-3",
+            "identity": "",
+            "website": "",
+            "details": ""
+          },
+          "bond_height": 0,
+          "bond_intra_tx_counter": 0,
+          "proposer_reward_pool": [],
+          "commission": "0",
+          "commission_max": "0",
+          "commission_change_rate": "0",
+          "commission_change_today": "0",
+          "prev_bonded_shares": "0"
+        },
+        {
+          "owner": "521ADC35CFC23C9E80616C92332B46D3FFD9039C",
+          "pub_key": {
+            "type": "AC26791624DE60",
+            "value": "T748INOBZ/U7TzbzWfyuEIchWw4RN59H8Z/I5y5zeso="
+          },
+          "revoked": false,
+          "pool_shares": {
+            "status": 2,
+            "amount": "100"
+          },
+          "delegator_shares": "0",
+          "description": {
+            "moniker": "fb-1",
+            "identity": "",
+            "website": "",
+            "details": ""
+          },
+          "bond_height": 0,
+          "bond_intra_tx_counter": 0,
+          "proposer_reward_pool": [],
+          "commission": "0",
+          "commission_max": "0",
+          "commission_change_rate": "0",
+          "commission_change_today": "0",
+          "prev_bonded_shares": "0"
+        },
+        {
+          "owner": "7084BEF9D4FC081C3B919FBF924E01A3EF305E8B",
+          "pub_key": {
+            "type": "AC26791624DE60",
+            "value": "TMmDMwh5U9WrnAcm3f/JZzeyKwXx7RKRzMwmDihmuLs="
+          },
+          "revoked": false,
+          "pool_shares": {
+            "status": 2,
+            "amount": "100"
+          },
+          "delegator_shares": "0",
+          "description": {
+            "moniker": "fb-2",
+            "identity": "",
+            "website": "",
+            "details": ""
+          },
+          "bond_height": 0,
+          "bond_intra_tx_counter": 0,
+          "proposer_reward_pool": [],
+          "commission": "0",
+          "commission_max": "0",
+          "commission_change_rate": "0",
+          "commission_change_today": "0",
+          "prev_bonded_shares": "0"
+        }
+      ],
+      "bonds": null
+    }
+  }
+}
