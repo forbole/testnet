@@ -1,0 +1,20 @@
+{
+  "node_id": "93d2ce80fce19072e3c7a345df643a181efe79d9",
+  "ip": "192.168.1.11",
+  "validator": {
+    "pub_key": {
+      "type": "AC26791624DE60",
+      "value": "89jQW7koqYGPC0vdNdn2OzjcvYcbcXRYzvrZRDacgjU="
+    },
+    "power": 100,
+    "name": ""
+  },
+  "app_gen_tx": {
+    "name": "sherry",
+    "address": "5085D271760957786C2E0E248501C396D2985B05",
+    "pub_key": {
+      "type": "AC26791624DE60",
+      "value": "89jQW7koqYGPC0vdNdn2OzjcvYcbcXRYzvrZRDacgjU="
+    }
+  }
+}
