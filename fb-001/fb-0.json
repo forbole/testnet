@@ -1,0 +1,20 @@
+{
+  "node_id": "92d7473ef1f1684d69fc101dfea6308efdc86a21",
+  "ip": "10.140.0.2",
+  "validator": {
+    "pub_key": {
+      "type": "tendermint/PubKeyEd25519",
+      "value": "iwTlJGg3HSZCkCByMc9jynoHUs/7DOpqedSahXjouHM="
+    },
+    "power": "100",
+    "name": ""
+  },
+  "app_gen_tx": {
+    "name": "fb-0",
+    "address": "C3AB6F63995E24311C4456E167627DC819B6B9AA",
+    "pub_key": {
+      "type": "tendermint/PubKeyEd25519",
+      "value": "iwTlJGg3HSZCkCByMc9jynoHUs/7DOpqedSahXjouHM="
+    }
+  }
+}
