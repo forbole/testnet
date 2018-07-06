@@ -1,6 +1,6 @@
 {
   "node_id": "274d2238e7244c480d5fc9f5822f5f276582c330",
-  "ip": "10.140.0.4",
+  "ip": "35.201.144.148",
   "validator": {
     "pub_key": {
       "type": "tendermint/PubKeyEd25519",
