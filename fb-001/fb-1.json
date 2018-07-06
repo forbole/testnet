@@ -1,6 +1,6 @@
 {
   "node_id": "ade41850b8775f1d03b03d80994492468ba38fec",
-  "ip": "35.194.158.194",
+  "ip": "10.140.0.3",
   "validator": {
     "pub_key": {
       "type": "tendermint/PubKeyEd25519",
@@ -11,7 +11,7 @@
   },
   "app_gen_tx": {
     "name": "fb-1",
-    "address": "72A38D34A510D29ED26C94FBE50A6917AAACEF37",
+    "address": "9B7C38A997DEE2A0F214A59FE0C243A750F9CD39",
     "pub_key": {
       "type": "tendermint/PubKeyEd25519",
       "value": "CktK0RAqiLQ3fIFgl9AMxU/1EC/3IGQt7U5xKmKcBYM="
