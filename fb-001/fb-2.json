@@ -11,10 +11,7 @@
   },
   "app_gen_tx": {
     "name": "fb-2",
-    "address": "91A1E2F10C5F0AB3172ABC853BB15DC8F5895A32",
-    "pub_key": {
-      "type": "tendermint/PubKeyEd25519",
-      "value": "pZMkx2KWEcQOX5tZalgo311brsjlJ1HdOap7UvPLPl0="
-    }
+    "address": "cosmosaccaddr1qhj4sp9hjgjvjgzghghvt72swum7a0vdt7j87x",
+    "pub_key": "cosmosaccpub1zcjduepq5kfjf3mzjcgugrjlndvk5kpgmaw4htkgu5n4rhfe4fa49u7t8ewst3e4tl"
   }
 }
