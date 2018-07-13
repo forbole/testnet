@@ -1,6 +1,6 @@
 {
-  "genesis_time": "2018-07-12T08:15:04.79862668Z",
-  "chain_id": "fb-001",
+  "genesis_time": "2018-07-13T07:30:48.647640606Z",
+  "chain_id": "fb-001a",
   "consensus_params": {
     "block_size_params": {
       "max_bytes": "22020096",
