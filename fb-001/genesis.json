@@ -1,5 +1,5 @@
 {
-  "genesis_time": "2018-07-13T08:07:07.814141878Z",
+  "genesis_time": "2018-07-24T10:59:01.857956992Z",
   "chain_id": "fb-001",
   "consensus_params": {
     "block_size_params": {
@@ -95,7 +95,7 @@
         ]
       },
       {
-        "address": "cosmosaccaddr1pvtv6y293rj5wz3ua77xaxpdm7v2raxdleyyjm",
+        "address": "cosmosaccaddr1gwzcxjaugtk52myt2eer97aexnnt306d6tn90g",
         "coins": [
           {
             "denom": "money",
@@ -122,19 +122,14 @@
         "role": "Admin"
       },
       {
-        "address": "cosmosaccaddr1pvtv6y293rj5wz3ua77xaxpdm7v2raxdleyyjm",
+        "address": "cosmosaccaddr1gwzcxjaugtk52myt2eer97aexnnt306d6tn90g",
         "role": "Admin"
       }
     ],
     "stake": {
       "pool": {
-        "loose_tokens": "200",
-        "unbonded_tokens": "400",
-        "unbonding_tokens": "0",
+        "loose_tokens": "600",
         "bonded_tokens": "0",
-        "unbonded_shares": "400",
-        "unbonding_shares": "0",
-        "bonded_shares": "0",
         "inflation_last_time": "0",
         "inflation": "7/100",
         "date_last_commission_reset": "0",
@@ -145,7 +140,7 @@
         "inflation_max": "1/5",
         "inflation_min": "7/100",
         "goal_bonded": "67/100",
-        "unbonding_time": "259200",
+        "unbonding_time": "180",
         "max_validators": 100,
         "bond_denom": "steak"
       },
@@ -157,10 +152,8 @@
             "value": "Lm4h2pgq6zyN8o7nESD8KInPwUTOvWBgcyzdRoBxArU="
           },
           "revoked": false,
-          "pool_shares": {
-            "status": 0,
-            "amount": "100"
-          },
+          "status": 0,
+          "tokens": "100",
           "delegator_shares": "100",
           "description": {
             "moniker": "fb-3",
@@ -175,7 +168,7 @@
           "commission_max": "0",
           "commission_change_rate": "0",
           "commission_change_today": "0",
-          "prev_bonded_shares": "0"
+          "prev_bonded_tokens": "0"
         },
         {
           "owner": "cosmosaccaddr1hyvksj9cj7yxnkxm5pgucp3n8rw63ncwxccnaw",
@@ -184,10 +177,8 @@
             "value": "pZMkx2KWEcQOX5tZalgo311brsjlJ1HdOap7UvPLPl0="
           },
           "revoked": false,
-          "pool_shares": {
-            "status": 0,
-            "amount": "100"
-          },
+          "status": 0,
+          "tokens": "100",
           "delegator_shares": "100",
           "description": {
             "moniker": "fb-2",
@@ -202,7 +193,7 @@
           "commission_max": "0",
           "commission_change_rate": "0",
           "commission_change_today": "0",
-          "prev_bonded_shares": "0"
+          "prev_bonded_tokens": "0"
         },
         {
           "owner": "cosmosaccaddr1yphl2a0mgy3jzrdx2tue78dd8hefdpdfrce8vy",
@@ -211,10 +202,8 @@
             "value": "iwTlJGg3HSZCkCByMc9jynoHUs/7DOpqedSahXjouHM="
           },
           "revoked": false,
-          "pool_shares": {
-            "status": 0,
-            "amount": "100"
-          },
+          "status": 0,
+          "tokens": "100",
           "delegator_shares": "100",
           "description": {
             "moniker": "fb-0",
@@ -229,19 +218,17 @@
           "commission_max": "0",
           "commission_change_rate": "0",
           "commission_change_today": "0",
-          "prev_bonded_shares": "0"
+          "prev_bonded_tokens": "0"
         },
         {
-          "owner": "cosmosaccaddr1pvtv6y293rj5wz3ua77xaxpdm7v2raxdleyyjm",
+          "owner": "cosmosaccaddr1gwzcxjaugtk52myt2eer97aexnnt306d6tn90g",
           "pub_key": {
             "type": "tendermint/PubKeyEd25519",
             "value": "CktK0RAqiLQ3fIFgl9AMxU/1EC/3IGQt7U5xKmKcBYM="
           },
           "revoked": false,
-          "pool_shares": {
-            "status": 0,
-            "amount": "100"
-          },
+          "status": 0,
+          "tokens": "100",
           "delegator_shares": "100",
           "description": {
             "moniker": "fb-1",
@@ -256,7 +243,7 @@
           "commission_max": "0",
           "commission_change_rate": "0",
           "commission_change_today": "0",
-          "prev_bonded_shares": "0"
+          "prev_bonded_tokens": "0"
         }
       ],
       "bonds": [
@@ -279,8 +266,8 @@
           "height": "0"
         },
         {
-          "delegator_addr": "cosmosaccaddr1pvtv6y293rj5wz3ua77xaxpdm7v2raxdleyyjm",
-          "validator_addr": "cosmosaccaddr1pvtv6y293rj5wz3ua77xaxpdm7v2raxdleyyjm",
+          "delegator_addr": "cosmosaccaddr1gwzcxjaugtk52myt2eer97aexnnt306d6tn90g",
+          "validator_addr": "cosmosaccaddr1gwzcxjaugtk52myt2eer97aexnnt306d6tn90g",
           "shares": "100",
           "height": "0"
         }
