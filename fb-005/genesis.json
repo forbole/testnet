@@ -1,5 +1,5 @@
 {
-  "genesis_time": "2018-10-30T17:07:27.936078653Z",
+  "genesis_time": "2018-10-30T17:28:40.824686321Z",
   "chain_id": "fb-005",
   "consensus_params": {
     "block_size_params": {
@@ -22,7 +22,7 @@
     {
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "MC6pdSmG5ewg+lFVvib/qCqGUE7bsehe9KXwJXK+LIw="
+        "value": "wIC7z/aHG3Jjf4WJFmpwICVYRywvcUvd5fEPaZh5Pq4="
       },
       "power": "100",
       "name": ""
@@ -30,7 +30,7 @@
     {
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "MC6pdSmG5ewg+lFVvib/qCqGUE7bsehe9KXwJXK+LIw="
+        "value": "LTEl2vrrA/su1SjPqimNRFLrUKyh2QOI37PgT1ueo4Y="
       },
       "power": "100",
       "name": ""
@@ -38,7 +38,7 @@
     {
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "MC6pdSmG5ewg+lFVvib/qCqGUE7bsehe9KXwJXK+LIw="
+        "value": "9tD8MHig5ooTnvsMoMyDVI8p8EOqQ6uYjYgmhE4+5Hs="
       },
       "power": "100",
       "name": ""
@@ -46,7 +46,7 @@
     {
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "MC6pdSmG5ewg+lFVvib/qCqGUE7bsehe9KXwJXK+LIw="
+        "value": "QY8BwxaF1P7Ot1qYURuhtcu3nRbmyR9BP73EGh14KM8="
       },
       "power": "100",
       "name": ""
@@ -56,7 +56,7 @@
   "app_state": {
     "accounts": [
       {
-        "address": "cosmosaccaddr1d0q2fs6shkl0m5364ngsw2hxqrqu24jnsur6lr",
+        "address": "cosmosaccaddr1y0s0aez2n2cafacepaye8503kv7xp27dx2wxte",
         "coins": [
           {
             "denom": "money",
@@ -69,7 +69,7 @@
         ]
       },
       {
-        "address": "cosmosaccaddr1jvx7th4pcuvfjt95vxk02jzxdug5dyvxasupz8",
+        "address": "cosmosaccaddr1dms3ffghsaklr3u7lezj305ap0c2x8wphvl9kw",
         "coins": [
           {
             "denom": "money",
@@ -82,7 +82,7 @@
         ]
       },
       {
-        "address": "cosmosaccaddr1e3338hut5mlwp5ewas3r9mexl7cqnp08vwpmxr",
+        "address": "cosmosaccaddr19ymmkgm7ekk93ayjt54tv3xmfzm04ux3u4kxpq",
         "coins": [
           {
             "denom": "money",
@@ -95,7 +95,7 @@
         ]
       },
       {
-        "address": "cosmosaccaddr14qw23pa4d73cjcyvf6shkr88ptsnxg6ejsvcq2",
+        "address": "cosmosaccaddr13wx8fggs2e5pypa085gz6q5jvkzp3vl5fny5su",
         "coins": [
           {
             "denom": "money",
@@ -110,19 +110,19 @@
     ],
     "admins": [
       {
-        "address": "cosmosaccaddr1d0q2fs6shkl0m5364ngsw2hxqrqu24jnsur6lr",
+        "address": "cosmosaccaddr1y0s0aez2n2cafacepaye8503kv7xp27dx2wxte",
         "role": "Admin"
       },
       {
-        "address": "cosmosaccaddr1jvx7th4pcuvfjt95vxk02jzxdug5dyvxasupz8",
+        "address": "cosmosaccaddr1dms3ffghsaklr3u7lezj305ap0c2x8wphvl9kw",
         "role": "Admin"
       },
       {
-        "address": "cosmosaccaddr1e3338hut5mlwp5ewas3r9mexl7cqnp08vwpmxr",
+        "address": "cosmosaccaddr19ymmkgm7ekk93ayjt54tv3xmfzm04ux3u4kxpq",
         "role": "Admin"
       },
       {
-        "address": "cosmosaccaddr14qw23pa4d73cjcyvf6shkr88ptsnxg6ejsvcq2",
+        "address": "cosmosaccaddr13wx8fggs2e5pypa085gz6q5jvkzp3vl5fny5su",
         "role": "Admin"
       }
     ],
@@ -146,10 +146,10 @@
       },
       "validators": [
         {
-          "owner": "cosmosaccaddr1d0q2fs6shkl0m5364ngsw2hxqrqu24jnsur6lr",
+          "owner": "cosmosaccaddr1y0s0aez2n2cafacepaye8503kv7xp27dx2wxte",
           "pub_key": {
             "type": "tendermint/PubKeyEd25519",
-            "value": "MC6pdSmG5ewg+lFVvib/qCqGUE7bsehe9KXwJXK+LIw="
+            "value": "wIC7z/aHG3Jjf4WJFmpwICVYRywvcUvd5fEPaZh5Pq4="
           },
           "revoked": false,
           "status": 0,
@@ -171,10 +171,35 @@
           "prev_bonded_tokens": "0"
         },
         {
-          "owner": "cosmosaccaddr1jvx7th4pcuvfjt95vxk02jzxdug5dyvxasupz8",
+          "owner": "cosmosaccaddr1dms3ffghsaklr3u7lezj305ap0c2x8wphvl9kw",
           "pub_key": {
             "type": "tendermint/PubKeyEd25519",
-            "value": "MC6pdSmG5ewg+lFVvib/qCqGUE7bsehe9KXwJXK+LIw="
+            "value": "LTEl2vrrA/su1SjPqimNRFLrUKyh2QOI37PgT1ueo4Y="
+          },
+          "revoked": false,
+          "status": 0,
+          "tokens": "100",
+          "delegator_shares": "100",
+          "description": {
+            "moniker": "fb-2",
+            "identity": "",
+            "website": "",
+            "details": ""
+          },
+          "bond_height": "0",
+          "bond_intra_tx_counter": 0,
+          "proposer_reward_pool": [],
+          "commission": "0",
+          "commission_max": "0",
+          "commission_change_rate": "0",
+          "commission_change_today": "0",
+          "prev_bonded_tokens": "0"
+        },
+        {
+          "owner": "cosmosaccaddr19ymmkgm7ekk93ayjt54tv3xmfzm04ux3u4kxpq",
+          "pub_key": {
+            "type": "tendermint/PubKeyEd25519",
+            "value": "9tD8MHig5ooTnvsMoMyDVI8p8EOqQ6uYjYgmhE4+5Hs="
           },
           "revoked": false,
           "status": 0,
@@ -196,10 +221,10 @@
           "prev_bonded_tokens": "0"
         },
         {
-          "owner": "cosmosaccaddr1e3338hut5mlwp5ewas3r9mexl7cqnp08vwpmxr",
+          "owner": "cosmosaccaddr13wx8fggs2e5pypa085gz6q5jvkzp3vl5fny5su",
           "pub_key": {
             "type": "tendermint/PubKeyEd25519",
-            "value": "MC6pdSmG5ewg+lFVvib/qCqGUE7bsehe9KXwJXK+LIw="
+            "value": "QY8BwxaF1P7Ot1qYURuhtcu3nRbmyR9BP73EGh14KM8="
           },
           "revoked": false,
           "status": 0,
@@ -219,55 +244,30 @@
           "commission_change_rate": "0",
           "commission_change_today": "0",
           "prev_bonded_tokens": "0"
-        },
-        {
-          "owner": "cosmosaccaddr14qw23pa4d73cjcyvf6shkr88ptsnxg6ejsvcq2",
-          "pub_key": {
-            "type": "tendermint/PubKeyEd25519",
-            "value": "MC6pdSmG5ewg+lFVvib/qCqGUE7bsehe9KXwJXK+LIw="
-          },
-          "revoked": false,
-          "status": 0,
-          "tokens": "100",
-          "delegator_shares": "100",
-          "description": {
-            "moniker": "fb-2",
-            "identity": "",
-            "website": "",
-            "details": ""
-          },
-          "bond_height": "0",
-          "bond_intra_tx_counter": 0,
-          "proposer_reward_pool": [],
-          "commission": "0",
-          "commission_max": "0",
-          "commission_change_rate": "0",
-          "commission_change_today": "0",
-          "prev_bonded_tokens": "0"
         }
       ],
       "bonds": [
         {
-          "delegator_addr": "cosmosaccaddr1d0q2fs6shkl0m5364ngsw2hxqrqu24jnsur6lr",
-          "validator_addr": "cosmosaccaddr1d0q2fs6shkl0m5364ngsw2hxqrqu24jnsur6lr",
+          "delegator_addr": "cosmosaccaddr1y0s0aez2n2cafacepaye8503kv7xp27dx2wxte",
+          "validator_addr": "cosmosaccaddr1y0s0aez2n2cafacepaye8503kv7xp27dx2wxte",
           "shares": "100",
           "height": "0"
         },
         {
-          "delegator_addr": "cosmosaccaddr1jvx7th4pcuvfjt95vxk02jzxdug5dyvxasupz8",
-          "validator_addr": "cosmosaccaddr1jvx7th4pcuvfjt95vxk02jzxdug5dyvxasupz8",
+          "delegator_addr": "cosmosaccaddr1dms3ffghsaklr3u7lezj305ap0c2x8wphvl9kw",
+          "validator_addr": "cosmosaccaddr1dms3ffghsaklr3u7lezj305ap0c2x8wphvl9kw",
           "shares": "100",
           "height": "0"
         },
         {
-          "delegator_addr": "cosmosaccaddr1e3338hut5mlwp5ewas3r9mexl7cqnp08vwpmxr",
-          "validator_addr": "cosmosaccaddr1e3338hut5mlwp5ewas3r9mexl7cqnp08vwpmxr",
+          "delegator_addr": "cosmosaccaddr19ymmkgm7ekk93ayjt54tv3xmfzm04ux3u4kxpq",
+          "validator_addr": "cosmosaccaddr19ymmkgm7ekk93ayjt54tv3xmfzm04ux3u4kxpq",
           "shares": "100",
           "height": "0"
         },
         {
-          "delegator_addr": "cosmosaccaddr14qw23pa4d73cjcyvf6shkr88ptsnxg6ejsvcq2",
-          "validator_addr": "cosmosaccaddr14qw23pa4d73cjcyvf6shkr88ptsnxg6ejsvcq2",
+          "delegator_addr": "cosmosaccaddr13wx8fggs2e5pypa085gz6q5jvkzp3vl5fny5su",
+          "validator_addr": "cosmosaccaddr13wx8fggs2e5pypa085gz6q5jvkzp3vl5fny5su",
           "shares": "100",
           "height": "0"
         }
