@@ -1,17 +1,17 @@
 {
-  "node_id": "51943111b657eb134fcebda7c560063cac50e124",
+  "node_id": "8e9863b20156b92a7f5d3922d5c0876a00a844af",
   "ip": "10.142.0.3",
   "validator": {
     "pub_key": {
       "type": "tendermint/PubKeyEd25519",
-      "value": "MC6pdSmG5ewg+lFVvib/qCqGUE7bsehe9KXwJXK+LIw="
+      "value": "9tD8MHig5ooTnvsMoMyDVI8p8EOqQ6uYjYgmhE4+5Hs="
     },
     "power": "100",
     "name": ""
   },
   "app_gen_tx": {
     "name": "fb-1",
-    "address": "cosmosaccaddr1jvx7th4pcuvfjt95vxk02jzxdug5dyvxasupz8",
-    "pub_key": "cosmosaccpub1zcjduepqxqh2jaffsmj7cg86292mufhl4q4gv5zwmwc7shh55hcz2u479jxq65t70s"
+    "address": "cosmosaccaddr19ymmkgm7ekk93ayjt54tv3xmfzm04ux3u4kxpq",
+    "pub_key": "cosmosaccpub1zcjduepq7mg0cvrc5rng5yu7lvx2pnyr2j8jnuzr4fp6hxyd3qnggn37u3asvks0h9"
   }
 }
